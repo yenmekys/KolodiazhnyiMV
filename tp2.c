@@ -8,9 +8,10 @@ int main(void) {
     printf("Введите число b ");
     scanf("%d", &b);
     printf("%d\n", a / b);
-    // c1 - master
-    // c2 - master 
-    // c3 - master
-    // c35 - mastertest
+    // c1 - mastertest
+    // c2 - mastertest
+    // c3 - mastertest
+    // c4 - mastertest
+    // c5 - mastertest
     return 0;
 }
